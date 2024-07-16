@@ -27,7 +27,7 @@ npm install
 ## Structure du Projet
 La structure du projet est la suivante :
 ```
-votre-repo/
+StickerSmash/
 ├── assets/
 ├── components/
 ├── App.js
