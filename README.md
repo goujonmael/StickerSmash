@@ -58,5 +58,12 @@ npm run android
 ```
 Ces commandes vont démarrer l'application depuis le terminal. Vous pourrez alors scanner le QR code avec l'application Expo Go sur Android ou depuis un navigateur web.
 
-
 ---
+## Fonctionnalités
+### Import an image from gallery
+https://github.com/user-attachments/assets/41f47390-c809-4de1-88b0-b1b6d2e13ee8
+### Add an emoji:
+https://github.com/user-attachments/assets/9f75896e-c094-4820-8c80-7b703eeb7186
+### Pan and tap gestures:
+https://github.com/user-attachments/assets/ad84ef30-8312-4a8d-9018-42e27875fe5a
+
