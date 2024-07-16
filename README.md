@@ -1,5 +1,8 @@
 # Développement d'une Application en React JS avec Expo
 
+https://github.com/user-attachments/assets/9f75896e-c094-4820-8c80-7b703eeb7186
+
+
 Projet de développement d'une application en React JS en utilisant le framework Expo, à partir du tutoriel officiel sur le site d'Expo.
 
 
